@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-1",
+        "titulo": "Campera de cuero oversize",
+        "imagen": "../img/abrigos/abrigo 1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "abrigo-2",
+        "titulo": "Campera columbia retro 1996",
+        "imagen": "../img/abrigos/abrigo 2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "abrigo-3",
+        "titulo": "Rompeviento nike x cav empt",
+        "imagen": "../img/abrigos/abrigo 3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 230000
+    },
+    {
+        "id": "abrigo-4",
+        "titulo": "Chaqueta de aviador",
+        "imagen": "../img/abrigos/abrigo 4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 870000
+    },
+    {
+        "id": "abrigo-5",
+        "titulo": "Manfinity Homme de pana",
+        "imagen": "../img/abrigos/abrigo 5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 140000
+    },
+    {
+        "id": "remera-1",
+        "titulo": "remera Dr.peper retro",
+        "imagen": "../img/remeras/remera 1.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "remera-2",
+        "titulo": "Top goth 90s",
+        "imagen": "../img/remeras/remera 2.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "remera-3",
+        "titulo": "baby tee kiten",
+        "imagen": "../img/remeras/remera 3.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "remera-4",
+        "titulo": "remera oficial tv girl (french exit tour)",
+        "imagen": "../img/remeras/remera 4.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "remera-5",
+        "titulo": "remera oversize de tyler durden",
+        "imagen": "../img/remeras/remera 5.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 21000
+    },
+    {
+        "id": "remera-6",
+        "titulo": "remera retro the beattles",
+        "imagen": "../img/remeras/remera 6.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "remera-7",
+        "titulo": "remera de surf",
+        "imagen": "../img/remeras/remera 7.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "remera-8",
+        "titulo": "remera y2k oversize",
+        "imagen": "../img/remeras/remera 8.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "pantalon-1",
+        "titulo": "Jean baggy bordado japon",
+        "imagen": "../img/pantalones/pantalones 1.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 87000
+    },
+    {
+        "id": "pantalon-2",
+        "titulo": "Jogging retro baggy",
+        "imagen": "../img/pantalones/pantalones 2.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 53000
+    },
+    {
+        "id": "pantalon 3",
+        "titulo": "Jean recto bordado",
+        "imagen": "../img/pantalones/pantalones 3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 73000
+    },
+    {
+        "id": "pantalon 4",
+        "titulo": "Pantalónes parachute",
+        "imagen": "../img/pantalones/pantalones 4.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 68000
+    },
+    {
+        "id": "pantalon-5",
+        "titulo": "jogging a day of us 1990",
+        "imagen": "../img/pantalones/pantalones 5.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 34000
+    }
+]
